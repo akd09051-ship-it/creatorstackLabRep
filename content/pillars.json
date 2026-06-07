@@ -1,0 +1,5 @@
+[
+  {"slug": "automation-pillars", "title": "Automation Pillars", "description": "Automate workflows with AI-assisted tooling and Notion/Airtable integrations."},
+  {"slug": "notion-sync", "title": "Notion Sync", "description": "Synchronize data between Notion and external data sources."},
+  {"slug": "api-integration", "title": "API Integration", "description": "Design scalable connections between apps via APIs."}
+]
